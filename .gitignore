@@ -1,0 +1,21 @@
+node_modules
+public
+.tmp
+.sass-cache
+.idea
+client/bower_components
+dist
+/server/config/local.env.js
+client/.DS_Store
+
+client/assets/.DS_Store
+
+.DS_Store
+
+*.psd
+
+_comp files/facebook banner.jpg
+
+_comp files/Screen Shot 2016-12-05 at 1.44.57 PM.png
+
+_comp files/woman-looking-out-window3.jpg
